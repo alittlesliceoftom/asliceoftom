@@ -6,7 +6,7 @@ Writing I enjoy from around the web.
 
 ## Fast.ai
 
-Some really fanstastic [writing about AI](https://www.fast.ai/posts/), and it's challenges. 
+Some really fanstastic [writing about AI](https://www.fast.ai/#blog), and it's challenges. 
 
 Excellent [post](https://www.fast.ai/posts/2026-01-28-dark-flow/) on when vibe flow isn't flow.
 
