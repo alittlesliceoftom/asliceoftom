@@ -22,7 +22,7 @@ Creator of Flask and prolific open source contributor — good writing on softwa
 
 - [The Final Bottleneck](https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/) — Reflections on being a human bottleneck in software systems, with candid historical perspective.
 
-## HBR
+## Harvard Business Review
 
 - [AI Doesn't Reduce Work — It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it) — The productivity paradox of AI: more capability, more demand.
 
