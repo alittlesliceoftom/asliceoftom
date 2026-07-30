@@ -13,13 +13,13 @@ Built with [Quartz v4](https://quartz.jzhao.xyz/).
 
 ## Hosting
 
-GitHub Pages via `.github/workflows/deploy.yml`. **Pushes to `v4` branch** trigger automatic builds (not `main`).
+GitHub Pages via `.github/workflows/deploy.yml`. **Pushes to `main`** trigger automatic builds.
 
 ## Structure
 
 - `content/` — All site content as markdown files
   - `projects/` — Project writeups
-  - `writing/blog/`, `writing/poetry/`, `writing/reviews/` — Writing sections
+  - `writing/poetry/`, `writing/reviews/` — Writing sections
   - `reading.md` — Reading list
 - `quartz.config.ts` — Site config (title, analytics, theme, plugins)
 - `quartz.layout.ts` — Page layout (sidebar, header, footer components)
