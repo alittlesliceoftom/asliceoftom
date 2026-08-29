@@ -26,6 +26,12 @@ Creator of Flask and prolific open source contributor — good writing on softwa
 
 - [AI Doesn't Reduce Work — It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it) — The productivity paradox of AI: more capability, more demand.
 
+## All Things Distributed
+
+Werner Vogels' (Amazon CTO) blog on distributed systems and software architecture. [allthingsdistributed.com](https://www.allthingsdistributed.com/)
+
+- [DuckDB and the Changing Physics of Analytics](https://www.allthingsdistributed.com/2026/08/duckdb-and-the-changing-physics-of-analytics.html) — On AWS's acquisition of DuckLabs and how modern hardware is reshaping what needs a distributed system versus a single node.
+
 ## Near blog
 
 - [On the Edge](https://near.blog/on-the-edge/) — A reflection on living at the boundary of comfort and growth.
