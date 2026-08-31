@@ -2,7 +2,7 @@
 title: Reading
 ---
 
-Writing I enjoy from around the web.
+In case your brain isn't full enough with content, here's some writing I enjoyed from around the web.
 
 ## Fast.ai
 
