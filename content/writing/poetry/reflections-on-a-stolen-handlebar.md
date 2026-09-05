@@ -33,7 +33,7 @@ And the form is in ether,
 And though you might wish it,  
 This poem can't be briefer.  
 
-I've covered the six stages,  
+I've covered the stages,  
 Of grief for my bike,  
 But acceptance takes a little longer,  
 Than any of us would like.  

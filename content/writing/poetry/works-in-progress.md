@@ -2,6 +2,8 @@
 title: Works in progress
 date: 2025-01-28
 ---
+Publishing this one strictly in progress mode. 
+
 We're all a work in progress,  
 She told me today,  
 It was our last session,  
