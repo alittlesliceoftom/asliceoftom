@@ -34,5 +34,11 @@ Werner Vogels' (Amazon CTO) blog on distributed systems and software architectur
 
 ## Near blog
 
-- [On the Edge](https://near.blog/on-the-edge/) — A reflection on living at the boundary of comfort and growth.
-- [Memetic Information](https://near.blog/memetic-information/) — How ideas spread and evolve through networks.
+- [On the Edge](https://near.blog/on-the-edge/) -  A reflection on living at the boundary of comfort and growth.
+- [Memetic Information](https://near.blog/memetic-information/) -  The bits on anti memetic information are particularly good and remind me of 'there is no anti-memetics division', a weird but great book!
+
+
+## Escaping flatland
+Beautiful writing (though frustratingly I couldn't find this poetry the author claims to write on a first pass!) I particularly enjoyed: 
+- [Search query](https://www.henrikkarlsson.xyz/p/search-query) for explaining *why* to write idiosyncratically online
+- [Relationships are co-evolutionary loops](https://www.henrikkarlsson.xyz/p/making-a-home-together) because it makes complete sense and I like Sunday relationship check-ins (or checking the blackboard of everything that went wrong in the week as Henrik puts it.)
