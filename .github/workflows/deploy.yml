@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
+  schedule:
+    - cron: "0 7 * * *"  # daily, so new map-challenge days appear without a push here
 
 permissions:
   contents: read
@@ -28,6 +31,20 @@ jobs:
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Checkout map challenge
+        uses: actions/checkout@v4
+        with:
+          repository: alittlesliceoftom/map-challenge-2026
+          path: map-challenge
+      - name: Build map challenge into /projects/map-challenge-2026
+        run: |
+          pip install -r map-challenge/requirements-site.txt
+          cd map-challenge && python build.py && cd ..
+          mkdir -p public/projects/map-challenge-2026
+          cp -r map-challenge/site/. public/projects/map-challenge-2026/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
