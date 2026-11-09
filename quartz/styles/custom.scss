@@ -1,3 +1,22 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Paper theme: ink links with a cyan marker underline, like the map challenge site.
+a.internal:not(.tag-link),
+a.external {
+  background-color: transparent;
+  color: var(--dark);
+  text-decoration: none;
+  background-image: linear-gradient(#33bbee, #33bbee);
+  background-size: 100% 3px;
+  background-position: 0 95%;
+  background-repeat: no-repeat;
+  border-radius: 0;
+  padding: 0;
+  transition: background-size 0.15s ease;
+  &:hover {
+    color: var(--dark);
+    background-size: 100% 100%;
+  }
+}

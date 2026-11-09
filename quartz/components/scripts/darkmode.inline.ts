@@ -1,4 +1,5 @@
-const userPref = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark"
+// Paper unless the system explicitly asks for dark
+const userPref = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"
 const currentTheme = localStorage.getItem("theme") ?? userPref
 document.documentElement.setAttribute("saved-theme", currentTheme)
 
