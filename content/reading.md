@@ -42,3 +42,9 @@ Werner Vogels' (Amazon CTO) blog on distributed systems and software architectur
 Beautiful writing (though frustratingly I couldn't find this poetry the author claims to write on a first pass!) I particularly enjoyed: 
 - [Search query](https://www.henrikkarlsson.xyz/p/search-query) for explaining *why* to write idiosyncratically online
 - [Relationships are co-evolutionary loops](https://www.henrikkarlsson.xyz/p/making-a-home-together) because it makes complete sense and I like Sunday relationship check-ins (or checking the blackboard of everything that went wrong in the week as Henrik puts it.)
+
+## Felix Rieseberg
+
+Works on Claude at Anthropic. [felixrieseberg.com](https://felixrieseberg.com)
+
+- [How to be more ambitious: A tutorial for humans with models](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/) — I love this ambition doc, especially because it is full of really clever versions of saying "keep going and make it better" (at least the Depth section).
